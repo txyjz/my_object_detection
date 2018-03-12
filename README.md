@@ -1,2 +1,2 @@
 # my_object_detection
-A simple object detection api in pytorch based by faster rcnn currently.
+A simple object detection api inplememted by pytorch based on faster rcnn currently.
